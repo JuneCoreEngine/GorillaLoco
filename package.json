@@ -1,0 +1,11 @@
+{
+  "name": "com.arparec.gorillaloco",
+  "version": "1.0.0",
+  "displayName": "Gorilla Locomotion",
+  "description": "A Gorilla Tag locomotion package.",
+  "author": {
+    "name": "ArpaRec",
+    "email": "techside@arparec.dev",
+    "url": "https://arparec.dev"
+  }
+}
